@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/blogs/why-move/"}
 ---
 
+# Why move?
 We decided to move to another platform, and the decision is not so obvious. 
 
 Why bother if the app is not in an active development stage? 
