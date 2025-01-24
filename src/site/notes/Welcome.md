@@ -12,3 +12,11 @@ We have a few things in the pipeline that we may implement in future versions of
 Currently, there are many other more comprehensive options that may not cover all the functionality we have, but they have a larger team and greater support.
 
 We are happy if you enjoy our product, and we continue to support you with it, but generally speaking, we do not expect it to be the best way to deal with similar tasks at the moment. Unless you want to stay away from cloud services, just because the Tema editor has the ability to keep all the data in one file, which is your file. *You own this file*.
+
+## Recent posts
+| File                              | Note      | Last Modified               |
+| --------------------------------- | --------- | --------------------------- |
+| [[blogs/Why move?\|Why move?]] | Why move? | 12:50 PM - January 24, 2025 |
+| [[Welcome\|Welcome]]           | Welcome   | 12:03 PM - January 24, 2025 |
+
+{ .block-language-dataview}
